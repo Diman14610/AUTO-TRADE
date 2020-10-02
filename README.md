@@ -1,4 +1,4 @@
-# AUTO-TRADE
+# [Больше не поддерживаеться] AUTO-TRADE
 This application is automatically traded with sellers/Это приложение автоматически торгуется с продавцами
 ---
 1) Сначало надо скачать всё содержимое папки POE trade.
